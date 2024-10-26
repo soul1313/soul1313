@@ -1,4 +1,4 @@
-- 👋 Hi, my name is soulhttps://github.com/soul1313/soul1313/tree/main
+- 👋 Hi, my name is soul
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning for a programmer
 - 💞️ I'm working alone for now 
